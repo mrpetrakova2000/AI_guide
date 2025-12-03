@@ -26,6 +26,7 @@
 ---
 
 ### Готовый датасет
+Ссылка на диск с датасетами: https://drive.google.com/drive/folders/1K80vfDbq7Lp9M5mVaVstK5eoKXlimGrN?usp=sharing
 
 ```
 dataset/
